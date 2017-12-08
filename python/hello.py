@@ -3,3 +3,5 @@
 import os
 
 print os
+
+print [i**2 for i in {1,2,3,4,5}]
